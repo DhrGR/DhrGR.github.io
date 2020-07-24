@@ -1,0 +1,114 @@
+Geode Menu:
+Status (L), Mia (L) left (A), Jenna (U), x2 left (AA)
+Items (L); Isaac (D), Carry Stone (U), Give Jenna
+Garet (R), Lift (U) give Jenna
+Mia (R); Frost (U) give Ivan (L)
+Djinn: Set all of Ivans, then all of Isaacs, give Flash to Felix
+Psynergy: L Hotkey (A) Burst (R)
+Isaac (D), R Hotkey (S), Retreat ()
+Jenna (U), Cyclone (), Re-enter, Lift (RU)
+
+Flying to mag rock; stop flying once hit red ground
+
+
+New Magma rock tech! Burst skip.
+
+Puzzle skip; retreat mode, be on the left side of the climeable wall. When screen shifts, right going up one square, right for a big then up+right. Need to work out precise way, but looking at image should be pretty good.
+
+Mars Lighthouse
+
+Retreat after the first grind (exit/enter after)
+
+Hotkey move when moving, pound in the big room before pound
+
+Can clear by running to the top right pound thingy and then out. Hard though.
+
+Flame Dragon Menu [R/L:U/D]
+Echo [0:0] > Kite [6:1]
+Zephyr [0:1] > Iron [-6:0]
+Char [1:0] > Squall [4:1]
+Breeze [1:0] > Steel [-6:0]
+Kindle [1:0] > Tonic [3:1]
+Hail [0:1] > Reflux [-3:2]
+Mold [1:0] > Lull [5:1]
+Sleet [0:-1] > Cannon [-6:2]
+SB all
+Set Flash [0:2], Kite [-1:-1], Mud [0:-1], Petra [0:-1]
+Mud [0:1] > Breath [2:0]
+
+No Leda Strat (can do off of no reset)
+Kite (S)/Flash/Mud/Thor (L)
+Petra (R)/Cybele (L)/Boreas (L)/Eclipse (L)-Eclipse (R)
+Def/Def/Nereid/Def
+
+Exit/Enter Mars (as always)
+Run to Jupiter Door, Djinn will have recovered
+
+Menu:
+Breath > Mud
+Sleet > Reflux
+Kindle > Hail
+Wheeze > Tonic
+Gel > Waft
+
+See mars psynergy list
+
+DD Setup
+Flash [1:0] > Chill [2:1]
+Steam [0:1] > Flint [1:-1]
+Granite [0:-1] > GS1 Djinn [-1:-1]
+Fog [0:-1] > Salt [-3:-2]
+Reflux [1:0] > Tonic [1:0] > Geode [2:-1]
+Shade [-1:0] > Aroma [-1:2] > Mud [-2:0]
+Kindle [1:0] > Kite [-1:1] > Blitz [2:2] > Quartz [3:-1]
+Ground [0:-2] > Spring [-2:3]
+Breath [-1:-2] > Petra [-3:0]
+Gel [2:0] > Echo [4:-1]
+Fever [0:-1] > Spring [-1:0]
+Steel [0:1] > Cannon [1:1]
+Iron [-1:1] > Ember [1:1]
+
+SB V/Me starting from sap
+Aroma [-1:-2], Blitz [-3:0], Waft [1,1], Breath [-1:0]
+Shade [0:3], Chill [1:0], Tonic [0:1], Fog [-1:0]
+
+Exit/Enter
+
+SB Fog, Blitz [0:1], Waft [1:1], Aroma [2,-1], Chill [-2,-2], Tonic [0:1], Shade [-1:-1]
+
+Piers needs 65 PP 
+
+Leda Strats: SB Kite, dont SB Fog/Chill
+T1 Phase 1: Thor instead of Eclipse
+T5 Phase 1: Astral/Astral/Def/Eclipse
+Everything else stays the same
+
+
+Doom Dragon V2
+
+merc: shade chill tonic fog
+
+Phase 1
+
+breeze/Squall/Lull/Thor
+zephyr/Wheeze/Petra/Eclipse
+Blitz/Ramses/WW/Ground
+Breath/Judgement/Ivan defend/Eclipse
+
+Phase 2
+
+Shade/Chill/WW/Aroma
+Isaac Def/Kite P/Lull/Boreas
+Breeze/Wheeze/Lull-Petra/Eclipse
+Zephyr/Tonic/WW/Flash [Guard Aura]
+Blitz/Chill/Lull/Aroma
+Fog/Squall/Def/Eclipse
+
+Phase 3
+
+Breath or Fog/Kite P/Lull/Ground
+Shade/Ramses/WW-Lull/Eclipse
+Zephyr/Tonic/Lull/Granite
+Blitz/Ramses/Lull/Ground
+Fog/Wheeze/Petra/Eclipse
+Def/Def/Def/Procne

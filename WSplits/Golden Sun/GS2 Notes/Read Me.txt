@@ -1,0 +1,24 @@
+This is the progress I've made updating my GS2 notes to be fully RNG manipulated (amongst other things). Here's a brief description of each of the files.
+
+GS2 any% notes 1.4.docx -- Core notes, not the most up to date but it's where I put all the final things. Anything in red generally means it needs to be tested/checked/revised
+
+gs notes.txt -- this contains a lot of the newest strategies that I'm working on. These eventually will be merged with GS2 any% notes, and as such stuff in here should supercede any strategies in the docx file.
+
+gs2 rng bullshit.txt -- RNG methods for the first bit of the game (up until King Scorpion). Goal is to have that done for at least the majority of the game. 
+
+psynergylist.txt -- a list of every psynergy used in the game (in order), use this to work out what the hotkey
+
+finalthird optimisatio.txt -- menus for the game after the reunion. It's written in my own code so here is how to understand it:
+	(U)(D)(L)(R) correspond to up down left right repsectively
+	(A)(S) correspond to L/R shoulder respectively (except in fights)
+	() corresponds to the cursor already being in position
+	> corresponds to "swap djinn" i.e. Breath > Mud = Breath swap Mud
+	[X:Y] corresponds to go Right X times, Up Y times
+	[-X:-Y] corresponds to go Left X times, Down Y times
+	(F)(J)(S)(P) in battle correspond to each of party members
+	(R)(L)(C) in battle correpond to target right/left/center enemy
+	- in battle corresponds to the person attacking twice due to kite
+	WW in battle is Wish Well
+	The order of my party members is Jenna/Felix/Piers/Sheba
+	
+Consult my videos on my twitch channel http://twitch.tv/tl_plexa for route, all the retreat warps and other glitches that I use. That information is NOT included in the documents.  There are some tricks like magma rock/airs rock puzzle skips which are on my channel which are not in my 5:5X GS2 time. 

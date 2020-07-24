@@ -1,0 +1,129 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<title>Mabinogi Farm Advisor</title>
+<script type="text/javascript">
+ function do_advise(the_form)
+ {
+  var max_growth_rate;
+  var max_dehydration;
+  var max_malnurishment;
+  var max_pest_quantity;
+  
+  if (the_form.the_crop.value==="kabotya")
+  {
+   max_growth_rate=0.99;
+   max_dehydration=0.25;
+   max_malnurishment=0.35;
+   max_pest_quantity=0.40;
+  }
+  else if (the_form.the_crop.value==="itigo")
+  {
+   max_growth_rate=1.04;
+   max_dehydration=0.40;
+   max_malnurishment=0.60;
+   max_pest_quantity=0.40;
+  }
+  else if (the_form.the_crop.value==="tomato")
+  {
+   max_growth_rate=1.37;
+   max_dehydration=0.10;
+   max_malnurishment=0.25;
+   max_pest_quantity=0.40;
+  }
+  else if (the_form.the_crop.value==="nasu")
+  {
+   max_growth_rate=0.99;
+   max_dehydration=0.15;
+   max_malnurishment=0.25;
+   max_pest_quantity=0.40;
+  }
+  else if (the_form.the_crop.value==="kyabetu")
+  {
+   max_growth_rate=1.11;
+   max_dehydration=0.20;
+   max_malnurishment=0.30;
+   max_pest_quantity=0.40;
+  }
+  
+  var the_dehydration= max_dehydration*(100-the_form.the_h2o.value)/100;
+  var the_malnurishment= max_malnurishment*(100-the_form.the_fert.value)/100;
+  var the_pest_quantity= max_pest_quantity*(100-the_form.the_bug.value)/100;
+  
+  var the_growth_rate= max_growth_rate-the_dehydration-the_malnurishment-the_pest_quantity;
+  
+  var the_need;
+  if (the_dehydration>the_malnurishment && the_dehydration>the_pest_quantity)
+  {
+   the_need= "Water";
+  }
+  else if (the_malnurishment>the_pest_quantity)
+  {
+   the_need= "Fertilize";
+  }
+  else
+  {
+   the_need= "Remove Bugs";
+  }
+  
+  
+  var the_string= the_need + "!\n\nThe current growth rate is " + the_growth_rate.toFixed(2) + "% per hour.";
+  
+  the_form.the_textarea.value= the_string;
+ }
+</script>
+<style type="text/css">
+center
+{
+ text-indent : -9001px;
+}
+</style>
+</head>
+
+<body>
+<form name="the_form">
+<table>
+ <tbody><tr>
+  <td>Crop</td>
+  <td>
+   <select name="the_crop">
+    <option selected="selected" value="kabotya">Pumpkin</option>
+    <option value="itigo">Strawberry</option>
+    <option value="tomato">Tomato</option>
+    <option value="nasu">Eggplant</option>
+    <option value="kyabetu">Cabbage</option>
+   </select>
+  </td>
+  <td rowspan="5">
+   <textarea name="the_textarea" rows="6" cols="30" style="overflow:auto"></textarea>
+  </td>
+ </tr>
+ <tr>
+  <td>H2O</td>
+  <td>
+   <input name="the_h2o" size="3" type="text">
+  </td>
+ </tr>
+ <tr>
+  <td>
+   FERT
+  </td>
+  <td>
+   <input name="the_fert" size="3" type="text">
+  </td>
+ </tr>
+ <tr>
+  <td>
+   BUG
+  </td>
+  <td>
+   <input name="the_bug" size="3" type="text">
+  </td>
+ </tr>
+ <tr>
+  <td colspan="2">
+   <input name="the_button" value="Get advice" onclick="do_advise(the_form);" type="button">
+  </td>
+ </tr>
+</tbody></table>
+</form>
+</body></html>

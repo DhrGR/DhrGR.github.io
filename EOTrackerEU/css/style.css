@@ -1,0 +1,86 @@
+progress[value] {
+	border: #FFFFFF;
+	border-style: solid;
+	border-width: 3px;
+	width: 105px;
+	height: 15px;
+	margin-right: 10px;
+}
+progress[value]::-webkit-progress-bar {
+	background-color: rgba(0, 0, 0, 0.0);
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0) inset;
+}
+#progress_monsters[value]::-webkit-progress-value {
+	background-color: red;
+}
+#progress_items[value]::-webkit-progress-value {
+	background-color: blue;
+}
+#progress_quests[value]::-webkit-progress-value {
+	background-color: yellow;
+}
+#progress_monsters[value]::-moz-progress-bar {
+	background: rgba(0, 0, 0, 0.0);
+	background-color: red;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0) inset;
+}
+#progress_items[value]::-moz-progress-bar {
+	background: rgba(0, 0, 0, 0.0);
+	background-color: blue;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0) inset;
+}
+#progress_quests[value]::-moz-progress-bar {
+	background: rgba(0, 0, 0, 0.0);
+	background-color: yellow;
+	box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0) inset;
+}
+.ui-widget {
+	font-size: 14px !important;
+}
+.ui-widget input {
+	font-size: 12px !important;
+}
+#progressbars {
+	background-color: #000000;
+	color: #FFFFFF;
+	padding-top: 10px;
+	padding-right: 5px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	width: 365px;
+	height: 60px;
+}
+#label_monsters {
+	font-size: 24px;
+	margin-right: 19px;
+	color: #FFFFFF;
+}
+#label_items {
+	font-size: 24px;
+	margin-right: 54px;
+	color: #FFFFFF;
+}
+#label_quests {
+	font-size: 24px;
+	color: #FFFFFF;
+}
+#progressbars > div {
+	text-align: right;
+}
+#text_monsters{
+	font-size: 17px;
+	margin-right: 260px;
+	color: #FFFFFF;
+}
+#text_items{
+    font-size: 17px;
+    margin-right: 142px;
+	margin-top: -20px;
+	color: #FFFFFF;
+}
+#text_quests{
+	font-size: 17px;
+	margin-right: 23px;
+	margin-top: -20px;
+	color: #FFFFFF;
+}

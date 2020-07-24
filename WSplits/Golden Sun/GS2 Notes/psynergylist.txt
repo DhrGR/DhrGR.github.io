@@ -1,0 +1,337 @@
+Psynergy List
+
+Kandorean Temple
+
+Whirlwind	[move L/retreat r]
+(Move to drain)
+Retreat
+Retreat
+Retreat
+Lash		[lash L ?]
+
+Shrine/Dehkan 
+
+Lash
+Retreat
+Retreat
+(Retreat if encounter)
+Pound
+
+Yampi/Osenia
+
+Lash		[pound to L after chest]
+Retreat
+Pound x6
+Scoop		[move to L]
+Retreat
+
+Kibombo Mountains/Naribwe
+
+Whirlwind
+Retreat
+Lash		
+Move
+Move
+Lash
+Move
+Whirlwind 
+
+Gabomba
+
+Move
+Lash
+Pound
+(Move to drain?)
+Retreat
+Pound		[pound to L]
+Lash
+Pound x4
+
+To the Ship
+
+Frost		[frost to L?]
+Growth
+Retreat
+[Avoid]
+Frost
+Frost
+[Move to drain?]
+Retreat
+Douse (end ship) [douse to L]
+
+Aqua Rock [incomplete]
+
+Cyclone
+Douse
+[Move to drain?]
+Retreat
+Douse
+Douse
+Frost x3
+Douse
+Retreat 
+Douse
+Move		[move to R]
+Douse
+Douse
+Douse
+Douse
+Move
+Douse
+Douse
+Douse
+Parch
+Parch		[retreat to R, whirlwind to L]
+Retreat		
+Retreat
+
+
+Airs Rock 
+
+Avoid (a lot)
+Whirlwind
+Retreat
+Retreat (x2?)
+Whirlwind
+Whirlwind
+Retreat (airs rock interior skip)
+Move
+Whirlwind
+Whirlwind
+Move
+Reveal
+
+Tundaria
+
+Parch		[pound to R, move to L]
+Pound
+Pound
+Move
+Move 
+Move
+Move
+Move
+Move
+Reveal
+(move?)
+Burst
+Burst		[retreat to R]
+Retreat
+Avoid (can do inside tundaria)
+[Avoid]
+
+Alhafra/Shrine
+
+Move
+Move
+Move
+Lash
+Pound
+Move
+Burst
+(Reveal for Psy Crystal)
+[Avoid]
+Frost
+Frost
+(Scoop for Psy Crystal)
+(Drain PP)
+Retreat
+Retreat
+Reveal
+
+Serpent
+
+Cyclone
+Retreat (actually)
+Reveal (viking helm)
+Move
+Move
+Move
+Move
+Move
+Move
+Move
+Sand (for cloud brand)	[sand to L]
+Sand
+
+Ankhol Ruins
+
+Whirlwind
+Sand
+Sand
+Retreat
+Whirlwind
+Sand
+Move
+Retreat
+Sand
+Sand
+Retreat
+Sand
+Sand
+Reveal		[move to r]
+Move
+Move
+Move
+Sand
+Sand
+
+Sea Of Time/Lemuria
+
+Reveal
+Move
+Scoop (lucky medal)
+Lash
+Grind 		[grind to L, retreat to R, use [Avoid]]
+Grind
+Grind
+
+Shaman Village
+
+Whirlwind	[scoop to L]
+Retreat
+Move		
+Retreat
+Retreat
+Whirlwind	
+Scoop
+Burst
+
+Jupiter lighhouse
+
+Scoop
+Cyclone		[cyclone R, Hover L]
+Hover
+Cyclone
+Cyclone
+Reveal
+Hover
+Hover
+Retreat
+Cyclone
+Cyclone
+Hover
+Move
+Retreat
+Move
+Move 
+Hover
+Cyclone
+Cyclone
+Hover
+Hover
+Hover
+Hover
+Move
+Hover
+Pound
+Move
+Move
+Hover
+Hover
+Retreat
+Cyclone
+Reveal
+
+Magma Rock
+
+Cyclone		[burst L, retreat R]
+Lift
+Lift
+Burst
+Burst
+Growth
+Burst
+Burst
+Burst
+Lash
+Burst
+Retreat [exterior skip]
+Burst
+Retreat [interior skip]
+Burst
+Burst
+Whirlwind
+Whirlwind
+Burst
+Retreat
+Blaze
+Blaze
+Retreat [actually]
+Retreat [actually]
+
+Mars Lighthouse
+
+Lash
+Scoop
+Pound
+Grind
+Retreat
+Burst
+Move x10000	[move L, pound R]
+Blaze
+Blaze
+Pound (maybe x2 if not greedy)
+Move
+Teleport
+Burst
+Teleport
+Pound
+Pound
+Pound
+Pound
+Pound
+Move
+Teleport
+Blaze
+Burst
+Retreat [set Cyclone to R]
+
+Jupiter Wing
+
+Cyclone 
+Cyclone
+Move
+Cyclone
+Cyclone
+Cyclone
+Cyclone
+Reveal
+Cyclone
+Cyclone
+Move
+Hover
+Cyclone
+Reveal
+Blaze [Burst to L, Set Blaze to R]
+Retreat
+
+Mercury Wing
+
+Frost
+Frost
+Blaze
+Blaze
+Retreat
+
+Mars Wing
+
+Burst 
+Burst
+Blaze
+Burst
+Move [Set Move to L]
+Move
+Blaze
+Retreat
+
+Venus Wing
+
+Move
+Move
+Carry
+Carry
+Sand
+Sand
+Blaze
+Retreat

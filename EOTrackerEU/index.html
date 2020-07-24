@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="css/jquery-ui-1.10.4.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="js/jquery-1.11.0.min.js"></script>
+	<script src="js/jquery-ui-1.10.4.js"></script>
+	<script src="js/javascript.js"></script>
+	<title>EO Tracker</title>
+</head>
+<body>
+	<div id="progressbars">
+		<label id="label_monsters">Monsters:</label>
+		<label id="label_items">Items:</label>
+		<label id="label_quests">Quests:</label>
+		<progress id="progress_monsters" value="0" max="131"></progress>
+		<progress id="progress_items" value="0" max="196"></progress>
+		<progress id="progress_quests" value="0" max="73"></progress>
+		<div id="text_monsters">0% (0/131)</div>
+		<div id="text_items">0% (0/196)</div>
+		<div id="text_quests">0% (0/73)</div>
+	</div>
+	<br>
+	<br>
+	<form style="float:left" id="save" action="none">
+		<input type="submit" value="Save">
+	</form>
+	<form style="float:left; margin-left: 5px;" id="reset" action="none">
+		<input type="submit" value="Reset">
+	</form>
+	<form style="float:left; margin-left: 55px;" id="export" action="none">
+		<input type="submit" value="Export">
+	</form>
+	<label style="float:left; margin-left: 5px; margin-top: -20px;" id="label_load">Load:</label>
+	<input style="float:left; margin-left: 5px;" type="file" id="file-input">
+	<br>
+	<br>
+	<form style="float:left" id="choose_monster" action="none">
+		<div class="ui-widget">
+			<label for="monsters">Monsters: </label>
+			<input id="monsters">
+		</div>
+		<input type="submit" value="Add Monster">
+	</form>
+	<form style="float:left; margin-left: 5px;" id="choose_item" action="none">
+		<div class="ui-widget">
+			<label for="items">Items: </label>
+			<input id="items">
+		</div>
+		<input type="submit" value="Add Item">
+    </form>
+	<form style="float:left; margin-left: 5px;" id="choose_quest" action="none">
+		<div class="ui-widget">
+			<label for="quests">Quests: </label>
+			<input id="quests">
+		</div>
+		<input type="submit" value="Add Quest">
+	</form>
+	<script>
+	reload_autocomplete();
+	$( "#save" ).submit(function( event ) {
+		monsters_save = jQuery.extend(true, [], monsters_got);
+		items_save = jQuery.extend(true, [], items_got);
+		quests_save = jQuery.extend(true, [], quests_got);
+		reload_progress();
+		reload_autocomplete();
+		event.preventDefault();
+	});
+	$( "#reset" ).submit(function( event ) {
+		monsters_got = jQuery.extend(true, [], monsters_save);
+		items_got = jQuery.extend(true, [], items_save);
+		quests_got = jQuery.extend(true, [], quests_save);
+		reload_progress();
+		reload_autocomplete();
+		event.preventDefault();
+	});
+	$( "#export" ).submit(function( event ) {
+		var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify({monsters: monsters_save, items: items_save, quests: quests_save}));
+		var dlAnchorElem = document.getElementById('downloadAnchorElem');
+		dlAnchorElem.setAttribute("href", dataStr);
+		dlAnchorElem.setAttribute("download", "save.json");
+		dlAnchorElem.click();
+		event.preventDefault();
+	});
+	$( "#choose_monster" ).submit(function( event ) {
+		if ( monsters.indexOf($( "#monsters" ).val()) != -1){
+			monsters_got.push($( "#monsters" ).val());
+			$( "#monsters" ).val("");
+			reload_autocomplete();
+			reload_progress();
+		}
+		event.preventDefault();
+	});
+	$( "#choose_item" ).submit(function( event ) {
+		if ( items.indexOf($( "#items" ).val()) != -1){
+			items_got.push($( "#items" ).val());
+			$( "#items" ).val("");
+			reload_autocomplete();
+			reload_progress();
+		}
+		event.preventDefault();
+	});
+	$( "#choose_quest" ).submit(function( event ) {
+		if ( quests.indexOf($( "#quests" ).val()) != -1){
+			quests_got.push($( "#quests" ).val());
+			$( "#quests" ).val("");
+			reload_autocomplete();
+			reload_progress();
+		}
+		event.preventDefault();
+	});
+	document.getElementById('file-input').addEventListener('change', readSingleFile, false);
+	</script>
+	<a id="downloadAnchorElem" style="display:none"></a>
+</body>
+</html>

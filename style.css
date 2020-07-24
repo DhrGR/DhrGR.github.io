@@ -1,0 +1,18 @@
+/*
+	Hello! You are reading this almost empty file.
+	It's uncommon for people to go picking through things like this,
+	and I appreciate you took the time to show some interest.
+	Currently there is not much here, but maybe in the future~
+
+	Feel free to ask me about anything!
+*/
+body {
+    font-family: arial, helvetica, sans-serif;
+}
+
+small{
+	width: 100%;
+	position: fixed;
+	text-align: center;
+	bottom: -200px; left: 0px;
+}

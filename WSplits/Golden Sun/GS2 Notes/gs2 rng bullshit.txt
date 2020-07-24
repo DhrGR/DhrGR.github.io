@@ -1,0 +1,48 @@
+Shrine 1
+
+1940: [worm dstairs] 2ac, breath
+3808: [x2 wolf dstairs] 0ac, breath
+3114: [wolf dstairs] 1ac, breath
+1665: 1940
+3119: 3808 
+2394: [worm wolf ustairs] 0ac, 1ac breath
+
+Cannon Segment [2pp-breath hits 3, 0pp breath hits 2]
+
+1940: [Ant on bridge] 0ac, 3ac, 1ac, lash after falling down; iron (2ac T2), 2ac; 3ac, Cannon (1AC T2)
+3808: [Ant after forest] 3ac, 1ac, 3ac, 0ac; setup after step, Iron before Madra, 3ac, run to cave; 1ac, Cannon [jupiter T2 w/ j]
+3114: [wolf near forest] 0ac, 4ac, 0ac; setup after move, iron before madra, 5ac, run to cave; lash in dehkan, 1ac, cannon [1ac t1]
+1665: [ant after forest, worm second] 3ac, 1ac, 3ac, 1ac; iron, 0ac; lash in dehkan, 2ac
+3119: 3808
+2394: 3114
+
+
+
+King Scorpion Segment [sanctum warp after nurse cap]
+
+1940: [troll after forest] 1ac [do nurse menu]; 0ac-0ac, 4ac, Blitz [1ac t1], 0AC, KS
+3808: [dino in forest] 1ac [do nurse menu] 1ac; lash in yampi, 4ac, pound the wall at last pillar, def-0ac, Blitz [T2: s atk], KS
+3114: [dino after forest]  0ac; 0ac, [fight before last pillar] 1ac, step nurse menu, Blitz [T1 S def, T2 S ray], 0ac
+1665: 1940
+3119: 3808
+2394: 3114
+
+
+
+Nurse Menu:
+Cannon trade Iron
+P sword to J, Nurse to S, S. bomb to S, S bomb to S, Pound to L
+
+Blitz Fight:
+Fume/EQ/Ray
+Fume/Ramses/Def
+
+KS Fight Offsets for Levels
+1940 KS: 131-83-160|45 F 2ac
+3808 KS: 132-81-162|66 J 0ac 
+3114 KS: 131-83-160|47 S 1ac 
+1665 KS: 132-81-162|46 F 1ac 
+3119 KS: 3808
+2394 KS: 3114
+
+

@@ -1,0 +1,175 @@
+div.card {
+  position: relative;
+  width: 512px;
+  height: 384px;
+  font-size: 100%;
+  font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+span.lv_name {
+  position: absolute;
+  left: 5px;
+  bottom: 2px
+}
+div.level {
+  position: absolute;
+  left: 148px;
+  top: 6px;
+  width: 364px;
+  height: 32px;
+  font-size: 1.4em;
+  color: #5AEFCE;
+  background-color: #21394A;
+}
+div.name {
+  position: absolute;
+  left: 222px;
+  top: 12px;
+  width: 290px;
+  height: 24px;
+  font-size: 1.2em;
+  color: #5AEFCE;
+  background-color: #52737E;
+}
+div.hp_box {
+  position: absolute;
+  left: 0px;
+  top: 36px;
+  width: 512px;
+  height: 32px;
+  font-size: 1.2em;
+  color: #5AEFCE;
+  background-color: rgba(27,59,93,.4);
+}
+div.monster_sprite {
+  position: absolute;
+  left: 256px;
+  top: 62px;
+  width: 256px;
+  height: 208px;
+}
+span.hp_left {
+  float: left;
+  padding-top: 3px;
+  padding-left: 18px;
+  font-size: 1.2em;
+  color: #C6BDBD;
+}
+span.hp_right {
+  float: left;
+  padding-top: 3px;
+  padding-left: 5px;
+  font-size: 1.2em;
+  color: #5AEFCE;
+}
+div.stat_big_box {
+  position: absolute;
+  left: 4px;
+  top: 74px;
+  width: 256px;
+  height: 42px;
+}
+div.resist_title {
+  position: absolute;
+  left: 4px;
+  top: 134px;
+  width: 256px;
+  height: 20px;
+}
+span.resist_title {
+  position: relative;
+  width: 122px;
+  height: 18px;
+  margin: 2px;
+  font-size: 1.2em;
+  float: left;
+  color: #000000;  
+}
+div.resist_big_box {
+  position: absolute;
+  left: 4px;
+  top: 156px;
+  width: 256px;
+  height: 110px;
+}
+div.item_big_box {
+  position: absolute;
+  left: 4px;
+  top: 272px;
+  width: 504px;
+  height: 110px;
+}
+div.stat_box {
+  position: relative;
+  width: 80px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(57,99,123,1);
+}
+div.stat_box_long {
+  position: relative;
+  width: 122px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(57,99,123,1);
+}
+span.stat_left {
+  position: absolute;
+  left: 2px;
+  bottom: 1px;
+  font-size: .9em;
+  color: #C6BDBD;
+}
+span.stat_right {
+  position: absolute;
+  right: 2px;
+  bottom: 1px;
+  font-size: .9em;
+  color: #5AEFCE;
+}
+div.item_box {
+  position: relative;
+  width: 504px;
+  height: 22px;
+  float: left;
+}
+div.item_name_box {
+  position: relative;
+  width: 90px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(24,66,115,1);
+}
+div.item_cost_box {
+  position: relative;
+  width: 80px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(24,66,115,1);
+}
+div.item_rate_box {
+  position: relative;
+  width: 100px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(24,66,115,1);
+}
+div.item_condition_box {
+  position: relative;
+  width: 218px;
+  height: 18px;
+  margin: 2px;
+  float: left;
+  background-color: rgba(24,66,115,1);
+}
+span.item_left {
+  position: absolute;
+  left: 2px;
+  bottom: 1px;
+  font-size: .9em;
+  color: #5AEFCE;
+}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Monster Cards</title>
+    <link rel="stylesheet" href="css/jquery-ui-1.10.4.min.css">
+    
+  </head>
+
+  <body>
+  	<iframe id= "card_frame" src="Treerat.html" frameborder='0' height='400px' width='520px'></iframe> 
+    <form id="choose_monster" action="none">
+      <div class="ui-widget">
+        <label for="monsters">Monsters: </label>
+        <input id="monsters">
+      </div>
+      <input type="submit" value="Choose monster.">
+    </form>
+
+    <script src="js/jquery-1.11.0.min.js"></script>
+    <script src="js/jquery-ui-1.10.4.js"></script>
+    <script>
+      var monsters = ['Alraune', 'Armoroll', 'Armoth', 'Assassin', 'Blader', 'Bloodant', 'Bud', 'Burstgel', 'Cernunos', 'Clawbug', 'Clawfly', 'Clawlord', 'Clover', 'Cotrangl', 'Cruella', 'Curoller', 'Cutcrab', 'Cutter', 'Darkhare', 'Deathant', 'Desouler', 'Diabolix', 'Dinolich', 'Direwolf', 'Dragoid', 'Dragon', 'Drake', 'Drakoid', 'Druid', 'Etreant', 'Eviloid', 'Evilroot', 'Faerie', 'Fangleaf', 'Fender', 'Fenrir', 'Fireater', 'Firebird', 'Flamegel', 'Flamerat', 'Glowbird', 'Goldeer', 'Golem', 'Goudarat', 'Guardant', 'Hare', 'Hazefly', 'Hellbull', 'Hellfly', 'Hexfrog', 'Hexroot', 'Hextoad', 'Hunter', 'Immoa', 'Ironcrab', 'Iwaopeln', 'Killclaw', 'Kingapis', 'Kingdile', 'Kingfrog', 'Kingyana', 'Kuyutha', 'Largeant', 'Lucifird', 'Macabre', 'Madworm', 'Mandrake', 'Maneater', 'Manticor', 'Mantis', 'Maul', 'Meltworm', 'Metalion', 'Moa', 'Mole', 'Monocyte', 'Moriyana', 'Muckdile', 'Muskoid', 'Mystic', 'Nightoad', 'Ogre', 'Omnivore', 'Petaloid', 'Pixie', 'Pondclaw', 'Primevil', 'Ragelope', 'Red Cell', 'Redbeak', 'Redclaw', 'Ren', 'Rockwood', 'Roller', 'Royalant', 'Sabremaw', 'Scorpion', 'Servant', 'Shellord', 'Shelltor', 'Sickwood', 'Silker', 'Skoll', 'Sleepgel', 'Sloth', 'Soldier', 'Songbird', 'Spider', 'Sprout', 'Stalker', 'Steelweb', 'Stingmaw', 'Sworder', 'Teralich', 'Tlachtga', 'Toxinfly', 'Treefrog', 'Treerat', 'Treetusk', 'Vampbat', 'Varaha', 'Venomfly', 'Venomgel', 'Warbull', 'Warrior', 'Waspior', 'Wolf', 'Woodbat', 'Woodfly', 'Wyrm', 'Wyrmoid', 'Wyvern'];
+      $(function() {
+        
+        $( "#monsters" ).autocomplete({
+          source: monsters
+        });
+      });
+    </script>
+    <script>
+      $( "#choose_monster" ).submit(function( event ) {
+		if ( monsters.indexOf($( "#monsters" ).val()) != -1){
+			$( "#card_frame").attr('src', $( "#monsters" ).val() + '.html');
+			$( "#monsters" ).val(""); 
+		}
+		event.preventDefault();
+      });
+    </script>
+  </body>
+</html>

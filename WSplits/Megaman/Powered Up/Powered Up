@@ -1,0 +1,18 @@
+Title=Mega Man Powered Up
+Attempts=5
+Offset=0
+Size=120,25
+Intro,0,281.5,281.5
+Oilman,0,610.35,328.85
+Elecman,0,902.61,292.26
+Timeman,0,1314.38,411.77
+Gutsman,0,1700.97,386.59
+Cutman,0,1939.15,238.18
+Bombman,0,2147.48,208.33
+Iceman,0,2513.21,365.73
+Fireman,0,2777.71,264.5
+Yellow Devil,0,3058.8,281.09
+The Bubble Thing,0,3537.57,478.77
+Mega Clone,0,4193.4,655.829999999999
+Dr. Wily,0,6894.52,2701.12
+Icons="","","","","","","","","","","","",""

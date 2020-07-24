@@ -1,0 +1,12 @@
+Title=Mystery Dungeon
+Attempts=0
+Offset=0
+Size=120,25
+Floor 5,0,0,0
+Floor 10,0,0,0
+Floor 15,0,0,0
+Floor 20,0,0,0
+Floor 25,0,0,0
+Floor 30,0,0,0
+The End,0,0,0
+Icons="","","","","","",""

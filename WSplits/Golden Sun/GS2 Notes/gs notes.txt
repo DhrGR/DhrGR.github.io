@@ -1,0 +1,278 @@
+King Scorpion (mint on Jenna, d tap echo)
+
+Cannon/Def/Blitz
+Mars/Ramses/Sleep Bomb
+Fume/Atk/Jupiter
+Atk/Iron/Breath (S)
+Cannon/Echo/blitz
+Mars/Ramses/Atalanta
+Fume/Def/Ray
+
+
+
+x2 Mermen - Beam/Echo (other)/D Dust/Plasma
+Vermin/Wolf - Beam-Fume/Atk-EQ/D Dust/Plasma
+Faery/Calamar - Beam/Atk/Atk/Plasma
+
+After Mist Sabre Jenna is really powerful
+After Psy crystal swap venus/mars (planet diver OP)
+
+When using Parch before Steam, Move L Retreat R
+
+Steam: SB all, set Echo
+Planet/Ramses/Tiamat/Procne
+
+New: Planet/Char/D Dust/Def
+Planet/Cannon/Def/Def
+
+Tundaria
+Fights: Generally weak, Storm Ray + Stuff kills
+
+Wheeze: (worth a save) SB all, set Echo
+Echo/Ragnarok/Boreas/Tiamat
+
+Reflux: Echo/???/Boreas/Procne
+Save before fight OR give shade to felix
+
+Briggs: Meteor/Boreas/DEFEND/Thor
+
+Mud: Planet/Def/Def/Thor
+
+
+Get Lucky medal on way to Avimander
+Sanctum warp after Trident
+
+SB All, Set Mud, D tap Fog/Spring/Shade, Blitz/Breath
+Sleep bomb to Sheba
+
+Avimander: Mud/Thor/Boreas/Sleep Bomb
+Meteor/Judgement/D Dust/Def
+Atk/Atk/Steam/Waft
+Mercury/Jupiter/Fog/Wheeze
+
+
+
+Gabomba: (reset after first level with near 0 encounter)
+3114  -- Salamander/Creeper in R3 
+(salamander mob) 2ac Cannon (R)/Echo (L)/D Dust (L)/Plasma (L)
+
+Short: Get fight in R3
+Med: Get fight in R4
+Long: Lash, fight in R4
+Very Long: Two lashes, fight in R4
+
+(red demon) Fume/Spire/D Dust/Plasma (Drop!)
+
+3808 -- Salamander after lash; 
+1ac run then scoop, 
+Cannon (R)/Atk(L)/D Dust (L)/Plasma (L)
+Fume (R)/Atk (R)/Def/Blitz (L)
+
+1665 -- Deathhead after lash
+1ac run then Frost
+Fume (L)/Atk (R)/D Dust (R)/Plasma (R)
+Def/Def/D Dust (L)/Blitz (R)
+
+
+1940 -- Skeleton 4AC, step, save, 3808 strat 
+
+3119 - Doomsayer 0AC, run around before using lash then use 3808 strat
+
+
+Airs Rock
+
+Exterior Retreat Warp: run up (then right) to get out
+
+Before Interior Retreat Warp move pillar into position, go back one square and retreat glitch
+
+(also in this room) Don't need to push the head up at all 
+
+
+Serpent
+
+3114
+
+Meteor/Judgement/Boreas/Shade (Briar fps, toxic j+f+, QS)
+Defend/CW (S)/Cure Pois (J)/Thor (Atk S, Atk+ P, MP J)
+2AC Ring/Cannon/Cure Pois F/Fog (Briar ps, CW, MP S)
+4AC Echo/Kindle/Breath (S)/Spring (F) (Ice JFP, MP F, Toxic J+F)
+Ring/Char/Blitz/Def (MP S, Ice JF, Ice PS)
+Mud/Reflux (F)/Waft/Shade (MP F, Atk S, Ice FPS)
+Iron/CW J/Wheeze/Steam (Ice PS, CW, Toxic JF+)
+
+P goes to 19 on T3, S to 5 on T6
+
+1665
+
+Meteor/Judgement/Boreas/Shade (Briar ps, ice jf, CW)
+Def/Def/Def/Thor (briar jf, briar jfp, ice fps) 
+Ring/Cannon/Def/Fog (MP P, Atk P, MP F)
+1ac Iron/Kindle/Breath (F)/Spring (J) (MP J, Toxic P+S, Briar PS)
+4AC Ring/def/Blitz/Steam (atk J, briar fps, brair ps)
+1ac Mud/Reflux (F)/Waft/Shade (QS, briar jfp, atk f)
+Ring/Char/Wheeze/Nurse (P) (QS, ATk f, QS)
+Steele/CW (F)/Def/Def
+Summons
+
+P11
+
+3880 & 3119
+
+Meteor/Judgement/Boreas/Shade (Briar fps, toxic fp+s+, CW)
+4AC Def/CW (S)/CP (S)/Thor (Toxis PS, MP J, MP S)
+1AC Ring/Cannon/CP (P)/Nurse (S) (MP F, briar ps, toxic jf)
+Echo/Kindle/Breath (F)/Fog (MP S, Atk F, Briar JF)
+1ac Ring/Char/Blitz/Spring (J) (Atk P, Briar JF, Birar FPS)
+1ac Mud/Reflux (F)/Waft/Shade
+Steel/CW F/Wheeze/Steam [7ac + Herb if no PP, ur bad]
+Summons!!!!
+
+
+2394
+
+Meteor/Judgement/Boreas/Shade (Briar jf, ice JF, CW)
+1ac ring/cw (S)/def/thor (Briar PS, atk+ s, cw)
+Echo/Cannon/Ply Well (F)/Fog (atk f, CW, MP P)
+Iron/Kindle/Breath (P)/Spring (P) (MP P, MP F, Toxic JF)
+Ring/Def/Blitz/Nurse (F) (Toxic PS, QS, Briar JFP)
+Mud/Char/Waft/Shade
+Ring/Reflux (P)/Wheeze/Def
+
+Felix goes to 6
+
+Poseidon
+
+3114+3119
+
+Meteor/Mud/Shade/Triden (Atk F, TB FPS)
+Mercury/Judgement/Ring/Breath (F) 
+Cannon/Kindle/Ring/Blitz
+Reflux (J)/Char/Shade/Nurse (F)
+Meteor/Procne/Def/Wheeze
+
+T1: (ATk s, TB JF) swap Blitz/Wheeze
+T1: (ATk P, TB JF) swap Blitz/Breath (on S)
+T1: (Atk F, TB PS) T4 Nurse (S)
+
+
+
+3880 + 1665
+
+Meteor/Mud/Shade/Trident (ATk P, TB JF)
+Mercury/Judgement/Ring/Blitz (OF J, IM PS) or (OF P, IM FPS)
+Cannon/Kindle/Ring/Breath (S)
+Reflux (J)/Char/Shade/Nurse (F)
+Meteor/Procne/Def/Wheeze
+
+
+Meteor/Mud/Shade/Triden 
+
+
+Lemuria Fountain:
+Method: hit both crabs first (top craft going left through outer circle)
+
+Outside: Leave/enter top crab touches outer ring going right
+
+3114: Water of Life outside, x2 Move top crab going through outer ring going right (leda)
+x1 Move leave/enter twice, outside x2 (leaving each time)
+Growth after wild coat
+
+3880: Water of life, x2 Move top crab going through outer ring going right (mighty axe or crown)
+Run down and out until the end of lemuria then back to fountain
+After second wild coat, growth x2 move to get leda
+
+1665: Wild Coat, bot crab touches left corner (wild coat)
+Scoop, outside x3 (leaving)
+
+3119: crafted gloves outside; move and leave
+outside x5 (leda/wild coats will be last)
+
+2394: water of life, x2 move firemans pole
+outside until wild coat, pound x2 leave
+second wild coat - move/pound x1 leave
+
+
+New Lemuria: 
+Lucky Medals: Lemuria x2, E Tundaria, Champa, Alhafra
+
+3114: Water of Life, frost
+x2 leave - wild coat
+x2 leave - wild coat
+
+3808: Water of life, frost
+x2 leave - brilliant circlet
+x3 leave - wild coat
+x1 leave, x1 run to tree - wild coat
+
+1665: wild coat, cyclone
+x1 leave - wild coat
+
+3119: crafted gloves
+x1 run to tree, talk to dude - wild coat
+x1 save, x1 run to tree - wild coat
+
+2394: water of life, frost
+x2 leave - wild coat
+x2 leave - wild coat
+
+
+
+
+Shaman Village
+Wild Coat on Jenna/Felix
+Grab Chill
+Expend PP with Felix (clay spire is good)
+
+In Shaman Village retreat warp going down Inn stairs
+After using Move, retreat warp on high ground path
+Go up stairs here, retreat warp back down stairs
+Run back to Moapa normally (trial road is free heal)
+
+Trial Road: Silver Armlett, Padded Gloves, Iron Shield, Nurse Cap
+
+Moapa: Swap Mud/Char
+Give Felix Breath
+SB all, set Mud/Char/Shade/Blitz
+
+Mud/Char (L)/Shade/Eclipse
+Meteor/Judgement/Ring/Blitz (R)
+Flare Storm/Breath/Def/Eclipse
+
+Buy Wild Coats back, and PsyCrystal if have none and want iris
+
+After salt, exit/enter is faster than walking if you want Iris
+Takes 55s to get Iris assuming no drain needed (sanctum warp after iris)
+
+
+Magma Rock
+
+SB all of Isaacs and Ivans djinn
+Drain Isaac's pp with potent cure, defending to take dmg if needed
+
+Flame Dragons
+All Jupiter + All but one Me on Felix's party
+Keep Salt/Petra/Mud as Venus Djinn, only keep Flash as Ma
+All SB except
+Kite/Petra on Jenna 
+Flash on Felix 
+Mud on Piers
+
+Kite (S)/Flash/Mud/Eclipse (L)
+Petra (R)/Cybele (R)/Boreas (L)/Eclipse (L), Eclipse (R)
+Def/Sleet/Def/Jupiter
+
+Run to Main mars room, put Jenna/Felix into Ninja
+
+
+-------------------------------------
+
+Ideas: Skip Lightning Sword, Thanatos Mace to Piers
+Check when to swap djinn between Piers/Sheba
+Check Gel vs Balm timing (Gel takes 50s)
+Skip Mold (Venus in Prox) 
+Maybe look into skipping Petra instead? (S uses Ground once vs DD, maybe don't need?)
+Could investigate Chill over Steam, would get both balm/gel in this case
+Retreat mode on psystone in yampi to get guardian ring (maybe doesn't save time?)
+Retreat warp through the yampi desert exit
+Skip Iris
+Actually get a proper setup for Flame Dragons and Doom Dragon (in terms of menuing)
